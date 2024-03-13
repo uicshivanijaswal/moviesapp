@@ -25,8 +25,7 @@ SECRET_KEY = 'tic_z@=_*bj*4xehqwv_-dilmzu4xpfrko@4293r=4o6%j26q)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['shivaniapp2-env.eba-u8c2djcs.eu-west-2.elasticbeanstalk.com']
- 
+ALLOWED_HOSTS = ['movieapp1-env.eba-fkfh32uc.eu-west-1.elasticbeanstalk.com']
 
 
 # Application definition
